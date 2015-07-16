@@ -1,0 +1,11 @@
+C++ nyelv segítségével, a GLUT OpenGL grafikus könyvtár felhasználásával megírt program, fényekkel, blendinggel, köddel, NURBS felülettel, textúrával.
+A futtatható állomány a Debug\Da_Stuff.exe elérési úton található.
+
+Használható billentyûk:
+fények bekapcsolása és felirat eltüntetése: szóköz
+Mozgás:   w, a, s, d, q, e, r, f
+Scissors: x
+Fog:      b
+Lights:   m
+
+
